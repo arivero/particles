@@ -9,7 +9,9 @@ and go refining the explanation of its content, so the ideal final product shoul
 self contained.
 
 ## Technologies 
+
 ### Non commutative geometry
+
 ### String theory
 
 ## Space dimensions
@@ -33,7 +35,7 @@ and the dual justifies zero majorana mass.
 the sBootstrap justifies it.
 
 ## symmetry group
-the sBootstrap idea invites to generate groups bigger than SO(30) and there is the problem of introducing chirality.
-Perhaps SO(32) <--> E8xE8 is the way to relate chiral and not chiral
+the sBootstrap idea invites to generate groups bigger than $SO(30)$ and there is the problem of introducing chirality.
+Perhaps $$SO(32) \longleftrightarrow E_8 \times E_8 $$ is the way to relate chiral and not chiral
 
 ## other 
