@@ -1,5 +1,3 @@
-Hmm
-
 ## Introduction
 The idea of this project is to collect my own views on possible paths beyond the standard model,
 predicting some of the content that currently looks ad-hoc
@@ -10,7 +8,7 @@ self contained.
 
 ## Technologies 
 
-### Non commutative geometry
+### Non commutative geometry
 
 ### String theory
 
