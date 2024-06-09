@@ -34,6 +34,10 @@ the sBootstrap justifies it.
 
 ## symmetry group
 the sBootstrap idea invites to generate groups bigger than $SO(30)$ and there is the problem of introducing chirality.
-Perhaps $$SO(32) \longleftrightarrow E_8 \times E_8 $$ is the way to relate chiral and not chiral
+Perhaps 
+
+$$SO(32) \longleftrightarrow E_8 \times E_8 $$ 
+
+is the way to relate chiral and not chiral
 
 ## other 
