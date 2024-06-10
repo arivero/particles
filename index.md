@@ -3,8 +3,9 @@ The idea of this project is to collect my own views on possible paths beyond the
 predicting some of the content that currently looks ad-hoc
 
 Plan is to include an heterogenous mix of references to preprints and [blog](https://a.rivero.nom.es/) entries,
-and go refining the explanation of its content, so the ideal final product should be
-self contained.
+and go refining the explanation of its content, so while in principle it starts 
+as a continuation and extension of my [old research page](/blog/research/), the ideal final product should be
+self contained. 
 
 ## Technologies 
 
