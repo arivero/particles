@@ -5,7 +5,7 @@ predicting some of the content that currently looks ad-hoc
 Plan is to include an heterogenous mix of references to preprints and [blog](https://a.rivero.nom.es/) entries,
 and go refining the explanation of its content, so while in principle it starts 
 as a continuation and extension of my [old research page](/blog/research/), the ideal final product should be
-self contained. 
+self contained, I hope. 
 
 ## Technologies 
 
