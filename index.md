@@ -25,9 +25,18 @@ a natural split in 4+7 dimensions, or 7+4... they come in dual pairs.
 Koide formula for leptons is not really empirical, it is deriver from an abandoned model of preons. But that is
 the formula for charged leptons. We have found it to be good enough for quark sequences, and then a main
 idea is that it could be justified by some other kind of composites.
+
 ### dual from strings
-Again, supergravity contains two objects with 84 components, it could be that one of them justifies zero dirac mass,
-and the dual justifies zero majorana mass.
+
+[blog:Notes on 84](/blog/recopilando-y-poniendo-orden-en-84/)
+
+Supergravity, or the M-theory, contains two dual objects of 84 components: the Ramond fields of the M2-brane and the M5-brane. 
+On the other hand, the standard models fermions total 96 degrees of freedom, but if we look at their Dirac masses 
+then we can say that 84 of them have zero mass and 12 of them, the ones of the top quark, have mass of the order of the electroweak scale.
+And if we look at the Majorana masses, we can say that 84 have zero mass and 12 of them, the ones of the three right neutrinos, have non null Majorana mass (of the order of Planck/gravity scale?)
+
+So it would be very interesting to produce a mass protection symmetry related to the Ramond fields, where the duality
+should translate to one or other kind of mass terms.
 
 ## number of generations
 
