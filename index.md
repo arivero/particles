@@ -50,4 +50,24 @@ $$SO(32) \longleftrightarrow E_8 \times E_8 $$
 
 is the way to relate chiral and not chiral
 
-## other 
+## other ideas
+
+## References
+
+This is for standard references, i.e. papers not from me, published
+
+@article{RevModPhys.50.721,
+  title = {Color embeddings, charge assignments, and proton stability in unified gauge theories},
+  author = {Gell-Mann, M. and Ramond, P. and Slansky, R.},
+  journal = {Rev. Mod. Phys.},
+  volume = {50},
+  issue = {4},
+  pages = {721--744},
+  numpages = {0},
+  year = {1978},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/RevModPhys.50.721},
+  url = {https://link.aps.org/doi/10.1103/RevModPhys.50.721}
+}
+
